@@ -11,3 +11,18 @@ This is a simple interactive web application built using Shiny for Python.
 pip install -r requirements.txt
 shiny run app.py
 ``
+## Live App
+
+👉 https://whoistwa.shinyapps.io/shiny_with_python_projects/
+
+
+## Preview
+
+![App Screenshot](My_app.png)
+
+
+# Shiny Python Interactive App
+``
+## Author
+
+Milse William NZINGOU MOUHEMBE
