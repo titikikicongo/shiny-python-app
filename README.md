@@ -29,5 +29,6 @@ You can try out the live version of the application here:
 👉 View the Live App on https://whoistwa.shinyapps.io/shiny_with_python_projects/
 
 📸 Preview
+![App Screenshot](www/My_app.png)
 👨‍💻 Author
 Milse William NZINGOU MOUHEMBE
