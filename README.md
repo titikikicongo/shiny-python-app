@@ -28,7 +28,7 @@ shiny run app.py
 
 ## Preview
 
-![App Screenshot](My_app.png)
+![App Screenshot](https://github.com/titikikicongo/shiny-python-app/blob/main/www/My_app.png)
 
 ---
 
