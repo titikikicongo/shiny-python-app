@@ -13,10 +13,12 @@ The app demonstrates basic interactivity with a slider input and dynamic text ou
 
 ## How to run locally
 
+
+## How to run locally
+
 ```bash
 pip install -r requirements.txt
 shiny run app.py
-
 
 ## Live App
 
