@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
 shiny_env/
+rsconnect-python/
 ``
