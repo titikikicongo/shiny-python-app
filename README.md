@@ -16,7 +16,7 @@ The app demonstrates basic interactivity with a slider input and dynamic text ou
 ```bash
 pip install -r requirements.txt
 shiny run app.py
-``
+
 
 ## Live App
 
@@ -33,4 +33,4 @@ shiny run app.py
 ## Author
 
 Milse William NZINGOU MOUHEMBE
-``
+```
