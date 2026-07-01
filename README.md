@@ -1,38 +1,33 @@
 # Shiny Python App
 
-This is a simple interactive web application built using **Shiny for Python**.  
+This is a simple interactive web application built using **Shiny for Python**. 
 The app demonstrates basic interactivity with a slider input and dynamic text output.
 
 ---
 
-## Features
-- Slider input
-- Dynamic text output
+## 🚀 Features
+
+* Interactive slider input
+* Dynamic text output
 
 ---
 
-## How to run locally
+## 💻 How to Run Locally
 
-
-## How to run locally
+To run this application on your own machine, execute the following commands in your terminal:
 
 ```bash
+# Install the required dependencies
 pip install -r requirements.txt
+
+# Run the Shiny application
 shiny run app.py
 
-## Live App
+🌐 Live App
+You can try out the live version of the application here:
 
-👉 https://whoistwa.shinyapps.io/shiny_with_python_projects/
+👉 View the Live App on https://whoistwa.shinyapps.io/shiny_with_python_projects/
 
----
-
-## Preview
-
-![App Screenshot](https://github.com/titikikicongo/shiny-python-app/blob/main/www/My_app.png)
-
----
-
-## Author
-
+📸 Preview
+👨‍💻 Author
 Milse William NZINGOU MOUHEMBE
-```
